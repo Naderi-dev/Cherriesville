@@ -24,6 +24,17 @@ The design follows a minimal luxury style using a **Black, Gray, and White** col
 
 ---
 
+
+## 📸 Preview & Live Demo
+
+Check out the website live: [View Live Demo](https://your-username.github.io/cherriesville/)
+
+### Home Page Screenshot
+![Home Page](asset/images/home.png)
+
+### Gallery Screenshot
+![Gallery](asset/images/gallery.png)
+
 ## 🛠 Technologies Used
 
 - HTML5
@@ -32,15 +43,6 @@ The design follows a minimal luxury style using a **Black, Gray, and White** col
 - Remix Icon (for icons)
 
 ---
-
-## 📂 Project Structure
-CherriesVille/
-│
-├── index.html
-├── style.css
-├── asset/
-│ └── images/
-└── README.md
 
 ## 🧱 Website Sections
 
