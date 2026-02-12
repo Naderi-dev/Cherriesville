@@ -34,6 +34,13 @@ The design follows a minimal luxury style using a **Black, Gray, and White** col
 ---
 
 ## 📂 Project Structure
+CherriesVille/
+│
+├── index.html
+├── style.css
+├── asset/
+│ └── images/
+└── README.md
 
 ## 🧱 Website Sections
 
