@@ -30,7 +30,7 @@ The design follows a minimal luxury style using a **Black, Gray, and White** col
 Check out the website live: [View Live Demo](https://naderi-dev.github.io/Cherriesville/)
 
 ### Home Page Screenshot
-![Home Page](asset/images/home.png)
+![Home Page](https://github.com/user-attachments/assets/0fc03777-e65a-4584-a414-d390b0f3f46b)
 
 ### Gallery Screenshot
 ![Gallery](asset/images/gallery.png)
