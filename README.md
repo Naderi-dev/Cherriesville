@@ -93,9 +93,9 @@ The entire layout is structured using **Flexbox** to ensure clean alignment and 
 
 Developed by **Behrokh Naderi**
 
-- Instagram: https://instagram.com/naderii_dev  
-- GitHub: https://github.com/Naderi-dev  
-- Email: naderibehrokh@gmail.com  
+- Instagram: [Instagram](https://instagram.com/naderii_dev) 
+- GitHub: [Github](https://github.com/Naderi-dev)  
+- Email: [Gmail](https://www.naderibehrokh@gmail.com)
 
 ---
 
