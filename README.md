@@ -33,7 +33,7 @@ Check out the website live: [View Live Demo](https://naderi-dev.github.io/Cherri
 ![Home Page](https://github.com/user-attachments/assets/0fc03777-e65a-4584-a414-d390b0f3f46b)
 
 ### Gallery Screenshot
-![Gallery](asset/images/gallery.png)
+![Gallery](https://github.com/user-attachments/assets/4f8f0a6c-1bb4-4997-be94-db50d9cbe8e9)
 
 ## 🛠 Technologies Used
 
