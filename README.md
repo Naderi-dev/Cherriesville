@@ -69,7 +69,7 @@ Check out the website live: [View Live Demo](https://behrokh-dev.github.io/Cherr
 ## 🚀 How to Run
 
 1. Clone the repository:
-https://github.com/Naderi-dev/cherriesville.git
+https://github.com/behrokh-dev/cherriesville.git
 
 2. Open `index.html` in your browser.
 
